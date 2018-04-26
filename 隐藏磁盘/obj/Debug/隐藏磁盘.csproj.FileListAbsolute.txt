@@ -1,0 +1,17 @@
+D:\c#工程\隐藏磁盘\隐藏磁盘\bin\Debug\隐藏磁盘.exe
+D:\c#工程\隐藏磁盘\隐藏磁盘\bin\Debug\隐藏磁盘.pdb
+D:\c#工程\隐藏磁盘\隐藏磁盘\obj\Debug\隐藏磁盘.csprojResolveAssemblyReference.cache
+D:\c#工程\隐藏磁盘\隐藏磁盘\obj\Debug\隐藏磁盘.MainForm.resources
+D:\c#工程\隐藏磁盘\隐藏磁盘\obj\Debug\隐藏磁盘.Properties.Resources.resources
+D:\c#工程\隐藏磁盘\隐藏磁盘\obj\Debug\隐藏磁盘.csproj.GenerateResource.Cache
+D:\c#工程\隐藏磁盘\隐藏磁盘\obj\Debug\隐藏磁盘.exe
+D:\c#工程\隐藏磁盘\隐藏磁盘\obj\Debug\隐藏磁盘.pdb
+D:\隐藏磁盘\隐藏磁盘\bin\Debug\隐藏磁盘.exe
+D:\隐藏磁盘\隐藏磁盘\bin\Debug\隐藏磁盘.pdb
+D:\隐藏磁盘\隐藏磁盘\obj\Debug\隐藏磁盘.csprojResolveAssemblyReference.cache
+D:\隐藏磁盘\隐藏磁盘\obj\Debug\隐藏磁盘.MainForm.resources
+D:\隐藏磁盘\隐藏磁盘\obj\Debug\隐藏磁盘.Properties.Resources.resources
+D:\隐藏磁盘\隐藏磁盘\obj\Debug\隐藏磁盘.csproj.GenerateResource.cache
+D:\隐藏磁盘\隐藏磁盘\obj\Debug\隐藏磁盘.csproj.CoreCompileInputs.cache
+D:\隐藏磁盘\隐藏磁盘\obj\Debug\隐藏磁盘.exe
+D:\隐藏磁盘\隐藏磁盘\obj\Debug\隐藏磁盘.pdb
